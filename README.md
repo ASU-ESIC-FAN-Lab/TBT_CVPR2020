@@ -12,7 +12,7 @@ weight bits on Resnet-18 for CIFAR10 dataset.
 2. We require 6 million x less # of parameter modification in comparison to BadNet.
 3. We inject Trojan after deployment of the model at the inference Phase through only flipping several Bits.
 4. We do not require any Training information or access to training facilities to inject the Trojan.
-More Details: https://openaccess.thecvf.com/content_CVPR_2020/papers/Rakin_TBT_Targeted_Neural_Network_Attack_With_Bit_Trojan_CVPR_2020_paper.pdf
+please refer to our published paper for more Details and 
 Video Description: https://www.youtube.com/watch?v=G65G-a-PwDU
 
 If you find the code is useful, please cite our work
