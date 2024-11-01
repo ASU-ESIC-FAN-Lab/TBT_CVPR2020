@@ -16,8 +16,9 @@ please refer to our published paper for more Details and
 Video Description: https://www.youtube.com/watch?v=G65G-a-PwDU
 
 If you find the code is useful, please cite our work
+
 @inproceedings{rakin2020tbt,
-  title={Tbt: Targeted neural network attack with bit trojan},
+//  title={Tbt: Targeted neural network attack with bit trojan},
   author={Rakin, Adnan Siraj and He, Zhezhi and Fan, Deliang},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
   pages={13198--13207},
